@@ -1,7 +1,4 @@
 
-/*
- * C++ Program to Print Size of Primitive Datatypes
- */
  
 #include<iostream>
 #include<iomanip>
