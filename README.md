@@ -8,7 +8,6 @@ int main()
 {
     char c;
     int i;
-    long l;
     float f;
     double d;
  
@@ -17,8 +16,6 @@ int main()
          << sizeof(c) << endl;
     cout << "integer " << setw(2) << setfill(' ')
          << sizeof(i) << endl;
-    cout << "long " << setw(5) << setfill(' ')
-         << sizeof(l) << endl;
     cout << "float " << setw(4) << setfill(' ')
          << sizeof(f) << endl;
     cout << "double " << setw(3) << setfill(' ')
